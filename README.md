@@ -1,4 +1,4 @@
 # Kaggle_DataCleaning
 Kaggle data cleaning course
 
--- As required by Technicolabs Machine Learning Internship Program
+-- As required by Technocolabs Machine Learning Internship Program
